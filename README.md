@@ -1,5 +1,5 @@
 # Bettter-Calculator
-A parser which supports any expression a human can write.
+A parser which supports any expression a human can write. Written in C#
 
 # Features:
 - Addition
